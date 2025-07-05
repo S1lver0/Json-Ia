@@ -1,0 +1,8 @@
+https://api.themoviedb.org/3/movie/popular?api_key=TU_API_KEY&language=es-ES&page=1
+Ejemplo de enpoint
+
+-> me quede en el https://api.themoviedb.org/3/movie/popular?api_key=81506eb4cdfb2fdf7b7fc1b51c0f9983&language=es-ES&page=7
+
+
+PAGE = 7 continuar apartir de PAGE = 8 
+
